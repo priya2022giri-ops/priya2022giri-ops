@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**priya2022giri-ops/priya2022giri-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./hero.svg" width="100%" alt="Hi there, I'm Priya Giri. Information Technology student at UNT in Dallas, TX. Open to Summer 2027 internships.">
 
-Here are some ideas to get you started:
+<img src="./skills.svg" width="100%" alt="What I work with: HTML, Python, Git and GitHub, MySQL, PL/SQL, pandas, Canva, video editing, content creation">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/priya2022giri-ops?tab=repositories"><img src="./projects.svg" width="100%" alt="Things I've built: RideShare Match, NTC Cars website, QUECOURT database"></a>
+
+<img src="./connect.svg" width="100%" alt="Let's connect">
+
+<a href="https://www.linkedin.com/in/priya-giri-05b45932b/"><img src="./linkedin.svg" width="49%" alt="LinkedIn: connect with me"></a>
+<a href="mailto:priya2022giri@gmail.com"><img src="./email.svg" width="49%" alt="Email: priya2022giri@gmail.com"></a>
+
+</div>
